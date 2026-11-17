@@ -1,0 +1,35 @@
+{
+  "python": "3.12.14",
+  "packages": {
+    "numpy": "2.5.4",
+    "pandas": "3.1.1",
+    "scikit-learn": "1.9.1",
+    "streamlit": "1.67.0",
+    "plotly": "7.1.0",
+    "sqlalchemy": "2.1.8"
+  },
+  "files": {
+    "evaluation/raw/balances.parquet": "d275b211522282efe2e66ace23674d14001a9ee160201e9bbcb69f75f8da5035",
+    "evaluation/raw/accounts.parquet": "7e303c920a54078ce38a0ab95c9406f9f61cdb2c4ea6d34952752731d5efe496",
+    "evaluation/raw/transactions.parquet": "4539056c82adeabfd864a22562b7114d984be4511e3e03d85a361ad7aeefc24b",
+    "evaluation/raw/movement_versions.parquet": "c8bfd49b848b4fc4b8973f85ab5ef987b73d67d5840b740b0fec68131767f6d4",
+    "evaluation/raw/generator_parameters.json": "d6bdaf61dcd5cdd04b70b63e07f48be3eabc382703b7b6531c85993ea062de9f",
+    "evaluation/results/metrics.json": "0c866372a58b30cacd2df35f2f41ebbc1819e3e679df846891293295aae82e5c",
+    "evaluation/results/pooled-model.joblib": "e4189b20c1be4fdc5e0494b159aa81dd794cbdc970235ef3cb3e22981b08bc9b",
+    "data/prepared.json": "a513247c011e4cd7bb7e1519d795b9ac203a385e769392687ecc757ec0d660ec",
+    "data/manifest.json": "053c952aeea2de3810482c39b330f6cc47930acf6baa7089f318b41251b2cb37"
+  },
+  "source_sha256": {
+    "src/cashpilot/forecast.py": "6f400ed23b0ba84d8704e3fc31e9ebe20cd28883d3e6a8c0fa5c3ce6e033317d",
+    "src/cashpilot/config.py": "aa5d26a6bb99358c9fe963d18c5e9a4b9d3805b94a406ba833ee65492ad4585c",
+    "src/cashpilot/domain.py": "5478371ca114a7e3afa63c42bfac7b3a5dac1902f3d6e324569f7a5dd89f077c",
+    "src/cashpilot/generate.py": "7b9115399039bbee94fccac883805c93a062d268290a78ddf5eb3860c33ca534",
+    "src/cashpilot/ui.py": "52b67577a63bf9ffc42faa8eb931fbd1de0ffb6be966cf027f2fd0a33888097f",
+    "src/cashpilot/evaluation.py": "4f3cd1f7b3152b1907bc7d677c6b5bfaaded7386b6e467c5f3f3e19bd0337d5b",
+    "src/cashpilot/__init__.py": "27e9bcb27b0fa6e5dd0803b7d6a5963627bd40289368bb4fcb63604466683e5a",
+    "src/cashpilot/cli.py": "500e6825ad97c3584be001e7a9692a7251670d7212d460d6e31e7bb27400ca69",
+    "src/cashpilot/artifacts.py": "d93b6eb998ae51e88c65806f0f0247cc899ea83d29678203702b9f0fd0a10cc8",
+    "src/cashpilot/repository.py": "d9bad144305d164cf04ce6fbb0129649c8270b01d51ed20123421381afc81b5a",
+    "src/cashpilot/data.py": "f1866c10cdfa2543a8f9ef71bddf7b0430fa8e6451e8aa494d40711f75a085e1"
+  }
+}

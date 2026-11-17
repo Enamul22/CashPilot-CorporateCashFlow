@@ -1,0 +1,10 @@
+*
+!requirements.lock
+!pyproject.toml
+!src/
+!src/**
+!app.py
+!data/
+!data/**
+!.streamlit/
+!.streamlit/config.toml

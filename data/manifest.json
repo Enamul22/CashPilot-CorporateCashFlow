@@ -1,0 +1,25 @@
+{
+  "sha256": "a513247c011e4cd7bb7e1519d795b9ac203a385e769392687ecc757ec0d660ec",
+  "as_of": "2026-10-31",
+  "examples": {
+    "within": {
+      "account_id": "CP-001",
+      "forecast_id": "ab87ee6955341f983effc019e7f6109a"
+    },
+    "buffer": {
+      "account_id": "CP-003",
+      "forecast_id": "33c662608e2e6e37c628a84bbe7fd4a2"
+    },
+    "shortfall": {
+      "account_id": "CP-050",
+      "forecast_id": "1ac7f754508c808d4f2eede5fd864a41"
+    },
+    "delayed_receipt": {
+      "account_id": "CP-020",
+      "forecast_id": "87ab5d0fb711240a690500d4586a865d",
+      "item_id": "CP-020-M00525",
+      "delay_days": 14
+    }
+  },
+  "accounts": 100
+}

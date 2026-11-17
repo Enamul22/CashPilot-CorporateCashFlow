@@ -4,13 +4,15 @@ Seven-day cash visibility for a corporate banking relationship manager: identify
 
 **Built by Enamul Haque · version 1.0.0 · fictional businesses · simulation as of 31 October 2026.**
 
-![Cash outlook](docs/screenshots/outlook-desktop.jpg)
+![Account overview](docs/screenshots/overview-desktop.jpg)
 
 ## Try the workflow
 
 Open one of four computed examples, inspect the seven-day outlook and underlying movements, then open **Review & scenarios**. Start a saved workspace to record a note and review status. Delay a customer receipt by 1–14 calendar days, compare the original and adjusted paths, and save a named scenario. Bookmark the private workspace URL to recover history after refresh or restart.
 
 The demonstration includes 100 businesses in Finland/EUR, Sweden/SEK and Switzerland/CHF; 104,900 daily balance rows and 180,824 booked transactions. Five archived origins per account retain their original forecasts. Later actual outcomes appear separately. Two latest snapshots intentionally demonstrate invalid-input handling.
+
+![Cash outlook on a phone](docs/screenshots/outlook-phone.jpg)
 
 ## Forecast design and measured results
 

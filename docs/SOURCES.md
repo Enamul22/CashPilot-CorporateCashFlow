@@ -1,6 +1,6 @@
 # Sources and licences
 
-All companies, transactions, expected movements and screenshots are generated for this demonstration. No bank/customer data, external music, photography or model API is used. Source code and generated data are MIT licensed in this repository. Third-party dependencies retain their own licences.
+All companies, transactions, expected movements and screenshots are generated for this demonstration. No real bank or customer data is used, and forecasting requires no model API. Source code and generated data are MIT licensed in this repository. Third-party dependencies retain their own licences.
 
 Implementation references:
 
